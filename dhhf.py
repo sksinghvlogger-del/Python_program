@@ -245,8 +245,10 @@
 #                                                              cat: " a small animal",
 
 
-new={
-    "table":["piece of furniture",
-            "list of facts"],
-            "cat":"a small animal"}
-print(new)
+# new={
+#     "table":["piece of furniture",
+#             "list of facts"],
+#             "cat":"a small animal"}
+# print(new)
+
+
