@@ -252,3 +252,27 @@
 # print(new)
 
 
+# set={1,3,4,2,3,4,2,5,6,7,9}
+# print(set)
+# print(len(set))
+
+
+                # empty set
+# set1=set()
+# set1.add(1)
+# set1.add("Rungta")
+# # set1.add([2,3,4])    cannot add list inset bcoz set is immutable 
+# set1.add((2,3,4))   
+# set1.remove(1)
+# print(set1)
+
+
+set1={1,2,3,4,5}
+set2={4,5,6,7,8}
+print(set1.union(set2))
+print(set1.intersection(set2))
+
+# wap u r given a list of subjects for students. Assume one classroom is required for ine subject how many classroom are required by all the students for the following subjects: 
+
+subjects=["java","python","c+++","c","html","css","javascript"]
+print(len(subjects))
